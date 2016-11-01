@@ -1,0 +1,39 @@
+.p-heading {
+    padding-top: 50px;
+}
+
+.p-subheading{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.p-text{
+	padding-top: 7px;
+	padding-bottom: 7px;
+
+}
+
+.socket-block{
+	padding: 30px;
+	margin: 15px;
+	background-color: #39CCCC;
+	
+}
+
+.box h3{
+	text-align:center;
+	position:relative;
+	top:80px;
+}
+.box {
+	width:70%;
+	height:200px;
+	background:#FFF;
+	margin:40px auto;
+	display: none; 
+}
+
+.shadow{
+     box-shadow: 0 10px 6px -6px #777;
+}
+
